@@ -192,14 +192,14 @@ img[src$="/images/skins/iconsets/default/category-gen.png"] {
 .required-tags .category-slash,
 img[src$="/images/skins/iconsets/default/category-slash.png"] {
   background: url("https://i.ibb.co/GQ2YZ686/zerafina-icon-category-mm-01.png"); /* url of new icon */
-  background-color: ##365B9B; /* change background color here */
+  background-color: #365B9B; /* change background color here */
   color: #0000001a; /* change border color here */
 }
 
 /* Multi */
 .required-tags .category-multi, 
 img[src$="/images/skins/iconsets/default/category-multi.png"] {
-  background: conic-gradient(from 270deg, #97C464 25%, #730046 25% 50%, ##365B9B 50% 75%, #A6464F 75%); /* conic gradient with the colors of the relationship icons */
+  background: conic-gradient(from 270deg, #97C464 25%, #730046 25% 50%, #365B9B 50% 75%, #A6464F 75%); /* conic gradient with the colors of the relationship icons */
   color: #0000001a; /* change border color here */
 }
 
