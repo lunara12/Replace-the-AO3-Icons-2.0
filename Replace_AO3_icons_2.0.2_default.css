@@ -233,7 +233,7 @@ img[src$="/images/skins/iconsets/default/warning-yes.png"] {
 .required-tags .external-work,
 img[src$="/images/skins/iconsets/default/warning-external-work.png"] {
   background: url("https://i.ibb.co/GQG1C3vw/zerafina-icon-warning-external-work-01.png"); /* url of new icon */
-  background-color: #107cb9; /* change background color here */
+  background-color: #46ADD4; /* change background color here */
   color: #0000001a; /* change border color here */
 }
 
@@ -261,7 +261,7 @@ img[src$="/images/skins/iconsets/default/complete-yes.png"] {
 .status .rec,
 img[src$="/images/skins/iconsets/default/bookmark-rec.png"] { 
   background: url("https://i.ibb.co/jPq89bqP/zerafina-icon-bookmark-rec-01.png"); /* url of new icon */
-  background-color: #107cb9; /* change background color here */
+  background-color: #46ADD4; /* change background color here */
   color: #0000001a; /* change border color here */
 }
 
@@ -269,7 +269,7 @@ img[src$="/images/skins/iconsets/default/bookmark-rec.png"] {
 .status .public, 
 img[src$="/images/skins/iconsets/default/bookmark-public.png"] { 
   background: url("https://i.ibb.co/07Wtk6D/zerafina-icon-bookmark-public-01.png"); /* url of new icon */
-  background-color: #107cb9; /* change background color here */
+  background-color: #46ADD4; /* change background color here */
   color: #0000001a; /* change border color here */
 }
 
